@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Order Feed information-->
+<Orders>
+  <Order>
+    <CustomerId Type="Customer">SIMOB<ShipName Type="ShipName">Queen Cozinhaa<ShipCountry Type="ShipCountry">USA</ShipCountry></ShipName></CustomerId>
+  </Order>
+</Orders>

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="6276714A-067A-4603-BC13-7F4FF783224D" ModuleId="IntegrationTests" />
+  <Module PersistentId="C86158C9-B8F0-46F0-AC57-E21FBE78B1CB" ModuleId="WindowsService" />
+</Modules>

@@ -1,0 +1,141 @@
+﻿Installing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Rolling back assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Installing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Installing service OrderFeedService...
+Service OrderFeedService has been successfully installed.
+Creating EventLog source OrderFeedService in log Application...
+Committing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Uninstalling assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Removing EventLog source OrderFeedService.
+Service OrderFeedService is being removed from the system...
+Service OrderFeedService was successfully removed from the system.
+Installing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Installing service OrderFeedService...
+Service OrderFeedService has been successfully installed.
+Creating EventLog source OrderFeedService in log Application...
+Committing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Uninstalling assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Removing EventLog source OrderFeedService.
+Service OrderFeedService is being removed from the system...
+Service OrderFeedService was successfully removed from the system.
+Installing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Installing service OrderFeedService...
+Service OrderFeedService has been successfully installed.
+Creating EventLog source OrderFeedService in log Application...
+Committing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Uninstalling assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Removing EventLog source OrderFeedService.
+Service OrderFeedService is being removed from the system...
+Service OrderFeedService was successfully removed from the system.
+Installing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Installing service OrderFeedService...
+Service OrderFeedService has been successfully installed.
+Creating EventLog source OrderFeedService in log Application...
+Committing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Uninstalling assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Removing EventLog source OrderFeedService.
+Service OrderFeedService is being removed from the system...
+Service OrderFeedService was successfully removed from the system.
+Installing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Installing service OrderFeedService...
+Service OrderFeedService has been successfully installed.
+Creating EventLog source OrderFeedService in log Application...
+Committing assembly 'C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\Automation projects\WindowsService\WindowsService\bin\Release\WindowsService.exe
+Installing assembly 'C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.exe
+Installing service OrderFeedService...
+Service OrderFeedService has been successfully installed.
+Creating EventLog source OrderFeedService in log Application...
+Committing assembly 'C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.exe
+Uninstalling assembly 'C:\OrderFeedWindowsService\WindowsService\bin\Release\windowsservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\OrderFeedWindowsService\WindowsService\bin\Release\windowsservice.InstallLog
+   assemblypath = C:\OrderFeedWindowsService\WindowsService\bin\Release\windowsservice.exe
+Removing EventLog source OrderFeedService.
+Service OrderFeedService is being removed from the system...
+Service OrderFeedService was successfully removed from the system.
+Installing assembly 'C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.exe
+Installing service OrderFeedService...
+Service OrderFeedService has been successfully installed.
+Creating EventLog source OrderFeedService in log Application...
+Committing assembly 'C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.InstallLog
+   assemblypath = C:\OrderFeedWindowsService\WindowsService\bin\Release\WindowsService.exe

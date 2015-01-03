@@ -1,0 +1,24 @@
+C:\Automation testing\AutomatedTesting\WindowsService\Orders\bin\Debug\CustomerOrders.dll
+C:\Automation testing\AutomatedTesting\WindowsService\Orders\bin\Debug\CustomerOrders.pdb
+C:\Automation testing\AutomatedTesting\WindowsService\Orders\obj\Debug\CustomerOrders.csprojResolveAssemblyReference.cache
+C:\Automation testing\AutomatedTesting\WindowsService\Orders\obj\Debug\CustomerOrders.dll
+C:\Automation testing\AutomatedTesting\WindowsService\Orders\obj\Debug\CustomerOrders.pdb
+C:\Users\SujithV\Documents\Personal\Automation projects\MyProjects\WindowsService\Orders\bin\Debug\CustomerOrders.dll
+C:\Users\SujithV\Documents\Personal\Automation projects\MyProjects\WindowsService\Orders\bin\Debug\CustomerOrders.pdb
+C:\Users\SujithV\Documents\Personal\Automation projects\MyProjects\WindowsService\Orders\obj\Debug\CustomerOrders.dll
+C:\Users\SujithV\Documents\Personal\Automation projects\MyProjects\WindowsService\Orders\obj\Debug\CustomerOrders.pdb
+C:\Automation projects\WindowsService\Orders\bin\Debug\CustomerOrders.dll
+C:\Automation projects\WindowsService\Orders\bin\Debug\CustomerOrders.pdb
+C:\Automation projects\WindowsService\Orders\obj\Debug\CustomerOrders.dll
+C:\Automation projects\WindowsService\Orders\obj\Debug\CustomerOrders.pdb
+C:\Automation projects\WindowsService\Orders\obj\Debug\CustomerOrders.csprojResolveAssemblyReference.cache
+C:\Personal from Asos\Automation projects\MyProjects\WindowsService\Orders\bin\Debug\CustomerOrders.dll
+C:\Personal from Asos\Automation projects\MyProjects\WindowsService\Orders\bin\Debug\CustomerOrders.pdb
+C:\Personal from Asos\Automation projects\MyProjects\WindowsService\Orders\obj\Debug\CustomerOrders.csprojResolveAssemblyReference.cache
+C:\Personal from Asos\Automation projects\MyProjects\WindowsService\Orders\obj\Debug\CustomerOrders.dll
+C:\Personal from Asos\Automation projects\MyProjects\WindowsService\Orders\obj\Debug\CustomerOrders.pdb
+C:\OrderFeedWindowsService\Orders\bin\Debug\CustomerOrders.dll
+C:\OrderFeedWindowsService\Orders\bin\Debug\CustomerOrders.pdb
+C:\OrderFeedWindowsService\Orders\obj\Debug\CustomerOrders.csprojResolveAssemblyReference.cache
+C:\OrderFeedWindowsService\Orders\obj\Debug\CustomerOrders.dll
+C:\OrderFeedWindowsService\Orders\obj\Debug\CustomerOrders.pdb

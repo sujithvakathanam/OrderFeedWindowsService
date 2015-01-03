@@ -1,0 +1,4 @@
+C:\Automation testing\AutomatedTesting\WindowsService\Orders\bin\Debug\Orders.dll
+C:\Automation testing\AutomatedTesting\WindowsService\Orders\bin\Debug\Orders.pdb
+C:\Automation testing\AutomatedTesting\WindowsService\Orders\obj\Debug\Orders.dll
+C:\Automation testing\AutomatedTesting\WindowsService\Orders\obj\Debug\Orders.pdb
