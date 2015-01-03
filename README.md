@@ -8,4 +8,4 @@ WindowsServie project which does the following
 -Generates an MSMQ messages
 Project 2:
 Integration test project
-This project utilises the Specflow features to perform Integration testing of Windowservice 
+This project utilises the Specflow features to perform Integration testing of Windowservice.
